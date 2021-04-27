@@ -1,15 +1,15 @@
 # Abstract Art GAN - 256x256
-![Test]()
-![Test]()
-![Test]()
+![Test](https://github.com/ThisJustin-code/pretrained-gan-abstract-art-256/blob/master/preview/8973432.png)
+![Test](https://github.com/ThisJustin-code/pretrained-gan-abstract-art-256/blob/master/preview/8973498.png)
+![Test](https://github.com/ThisJustin-code/pretrained-gan-abstract-art-256/blob/master/preview/8973600.png)
 
-![Test]()
-![Test]()
-![Test]()
+![Test](https://github.com/ThisJustin-code/pretrained-gan-abstract-art-256/blob/master/preview/8973446.png)
+![Test](https://github.com/ThisJustin-code/pretrained-gan-abstract-art-256/blob/master/preview/8973522.png)
+![Test](https://github.com/ThisJustin-code/pretrained-gan-abstract-art-256/blob/master/preview/8975286.png)
 
-![Test]()
-![Test]()
-![Test]()
+![Test](https://github.com/ThisJustin-code/pretrained-gan-abstract-art-256/blob/master/preview/8973458.png)
+![Test](https://github.com/ThisJustin-code/pretrained-gan-abstract-art-256/blob/master/preview/8973584.png)
+![Test](https://github.com/ThisJustin-code/pretrained-gan-abstract-art-256/blob/master/preview/8975428.png)
 
 This is a GAN neural network I trained to generate photos of abstract art at 256x256 resolution. Preview photos are 
 available along with the log data from the training process. StyleGAN2-ada-pytorch was used to train on my own custom 
@@ -23,8 +23,7 @@ Links:
 
 * [Progression video of the training process on this data set]()
 * [Latent vector walk video #1]()
-* [Latent vector walk video #2]()
-* [Download link to my own custom landscape dataset used for training]()
-* [Download link to the landscapes .pkl file]()
+* [Download link to my own custom art dataset used for training]()
+* [Download link to the abstract art .pkl file]()
 
 Updated on **04/26/2021** by **Justin Gallagher**
