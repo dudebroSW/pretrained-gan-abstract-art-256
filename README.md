@@ -21,8 +21,8 @@ abstract art.
 
 Links:
 
-* [Progression video of the training process on this data set]()
-* [Latent vector walk video #1]()
+* [Progression video of the training process on this data set](https://youtu.be/Veh3uNC8VI8)
+* [Latent vector walk video #1](https://youtu.be/Gzfzxq-ZHTo)
 * [Download link to my own custom art dataset used for training]()
 * [Download link to the abstract art .pkl file]()
 
