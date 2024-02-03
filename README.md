@@ -1,16 +1,4 @@
 # Abstract Art GAN - 256x256
-![Test](https://github.com/dudebroSW/pretrained-gan-abstract-art-256/blob/master/preview/8973432.png)
-![Test](https://github.com/dudebroSW/pretrained-gan-abstract-art-256/blob/master/preview/8973498.png)
-![Test](https://github.com/dudebroSW/pretrained-gan-abstract-art-256/blob/master/preview/8973600.png)
-
-![Test](https://github.com/dudebroSW/pretrained-gan-abstract-art-256/blob/master/preview/8973446.png)
-![Test](https://github.com/dudebroSW/pretrained-gan-abstract-art-256/blob/master/preview/8973522.png)
-![Test](https://github.com/dudebroSW/pretrained-gan-abstract-art-256/blob/master/preview/8975286.png)
-
-![Test](https://github.com/dudebroSW/pretrained-gan-abstract-art-256/blob/master/preview/8973458.png)
-![Test](https://github.com/dudebroSW/pretrained-gan-abstract-art-256/blob/master/preview/8973584.png)
-![Test](https://github.com/dudebroSW/pretrained-gan-abstract-art-256/blob/master/preview/8975428.png)
-
 ![image info](./preview/8973432.png)
 ![image info](./preview/8973498.png)
 ![image info](./preview/8973600.png)
